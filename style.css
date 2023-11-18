@@ -223,13 +223,35 @@ body {
         top: 40%;
     }
 
+    .our-value {
+        font-size: 2em;;
+    }
+
+    .h3-ourvalue {
+        font-size: 1.5em;
+    }
+
+    .article {
+        font-size: 2em;
+    }
+
+    .h4-article {
+        margin: 2%;
+    }
+
+    .p-article {
+        margin: 2%;
+    }
+
     .grid-ourvalue {
         grid-template-columns: auto;
         grid-template-rows: auto auto auto auto;
+        margin: 5%;
     }
 
     .grid-article {
         grid-template-columns: auto;
         grid-template-rows: auto auto auto;
+        margin: 5%;
     }
 }
